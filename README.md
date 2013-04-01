@@ -42,3 +42,12 @@ You can create a BKDoodleView in the following ways:
 //Set frame
 - (void)setFrame:(CGRect)frame;
 ```
+## License
+
+This code is distributed under the terms and conditions of the [MIT license](LICENSE). 
+
+## Change-log
+
+**Version 0.1** @ 4/1/13
+
+- Initial release
